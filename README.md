@@ -5,6 +5,8 @@ Zebpay rest client and Zebpay Model will also be available as nuget.
 
 `PM> Install-Package Zebpay.RestClient`
 
+In case you just need model you can `PM> Install-Package Zebpay.Model`
+
 <h1>How to Use</h1>
 
 - <i>Generate your key at https://build.zebpay.co/application (Web or Console/backed) to generate clientid, clientsecret, scope, and apiSecret and zebpaysubscriptionkey.</i>
